@@ -1,0 +1,7 @@
+{
+  "name": "boxmusic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
