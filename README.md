@@ -64,3 +64,30 @@ Exemplo:
 
 ```html
 routerLink="/racionais"
+
+---
+
+## ▶️ Como Executar o Projeto
+
+## 1. Instalar o Node.js
+
+Antes de tudo, é necessário possuir o Node.js instalado no computador.
+
+Verificar versão:
+
+- ```bash
+- node --version
+## 2. Instalar o Ionic
+- No terminal, execute:
+- npm i -g @ionic/cli
+- Verificar instalação:
+- ionic --version
+## 3. Entrar na Pasta do Projeto
+- cd box-music
+## 4. Instalar Dependências
+- npm install
+## 5. Rodar o Projeto
+- ionic s
+---
+
+O projeto abrirá automaticamente no navegador.
